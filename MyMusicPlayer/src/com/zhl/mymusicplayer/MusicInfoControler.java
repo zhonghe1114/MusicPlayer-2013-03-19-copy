@@ -9,7 +9,7 @@ import android.net.Uri;
 import android.provider.MediaStore;
 
 /**
- * @author dehoo-ZhongHeliang 2013-2-20下午1:44:32
+ * @author dehoo-ZhongHeliang 2013-3-19下午21:44:32
  * @version jdk 1.6.0_03; sdk 4.2.0
  */
 public class MusicInfoControler
