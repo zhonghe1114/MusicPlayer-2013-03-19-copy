@@ -29,7 +29,7 @@ import android.widget.Toast;
  */
 
 /**
- * @author dehoo-ZhongHeliang 2013-2-20下午2:43:14
+ * @author dehoo-ZhongHeliang 2013-3-19下午20:43:14
  * @version jdk 1.6.0_03; sdk 4.2.0
  */
 public class MusicList extends ListActivity
