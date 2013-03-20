@@ -12,7 +12,7 @@ import android.os.IBinder;
  */
 
 /**
- * @author dehoo-ZhongHeliang 2013-2-20下午2:22:51
+ * @author dehoo-ZhongHeliang 2013-3-19下午22:22:51
  * @version jdk 1.6.0_03; sdk 4.2.0
  */
 public class MusicPlayerService extends Service
