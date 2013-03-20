@@ -19,7 +19,7 @@ public class MusicPlayerService extends Service
 {
 	private final IBinder mBinder = new LocalBinder();
 	private MediaPlayer mMediaPlayer = null;
-	
+	// 命名广播的好习惯
 	public static final String PLAYER_PREPARE_END = "com.zhl.musicplayerservice.prepared";
 	public static final String PLAYER_COMPLETED = "com.zhl.com.yarin.musicplayerservice.playcompleted";
 	
