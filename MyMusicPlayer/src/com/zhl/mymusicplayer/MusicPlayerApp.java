@@ -7,7 +7,7 @@ import android.view.Menu;
 
 
 /**
- * @author dehoo-ZhongHeliang 2013-2-20上午11:52:15
+ * @author dehoo-ZhongHeliang 2013-3-19下午21:22:15
  * @version jdk 1.6.0_03; sdk 4.2.0
  */
 public class MusicPlayerApp extends Application
